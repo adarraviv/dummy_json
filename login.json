@@ -1,0 +1,23 @@
+[
+    {
+        "id": "1",
+        "email": "user@evbloom.com",
+        "password": "evbloom1"
+    },
+    {
+        "id": "2",
+        "email": "admin@evbloom.com",
+        "password": "evbloom1"
+    },
+    {
+        "id": "3",
+        "email": "admin+2@evbloom.com",
+        "role": "admin",
+        "password": "evbloom1"
+    },
+    {
+        "id": "4",
+        "email": "admin+3@evbloom.com",
+        "password": "evbloom1"
+    }
+]

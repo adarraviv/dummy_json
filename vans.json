@@ -1,0 +1,46 @@
+[
+    {
+       "id":"1",
+       "name":"Van #1",
+       "license":"123wer5245",
+       "make":"Hyundia",
+       "model":"Sonata",
+       "year":"2016",
+       "status":"available",
+       "createdAt":"2021-07-17T03:31:33.655Z",
+       "updatedAt":"2021-07-17T03:31:33.655Z"
+    },
+    {
+        "id":"2",
+        "name":"Van #2",
+        "license":"123wer5245",
+        "make":"Hyundia",
+        "model":"Sonata",
+        "year":"2016",
+        "status":"available",
+        "createdAt":"2021-07-17T03:31:33.655Z",
+        "updatedAt":"2021-07-17T03:31:33.655Z"
+     },
+     {
+        "id":"3",
+        "name":"Van #3",
+        "license":"123wer5245",
+        "make":"Hyundia",
+        "model":"Sonata",
+        "year":"2016",
+        "status":"available",
+        "createdAt":"2021-07-17T03:31:33.655Z",
+        "updatedAt":"2021-07-17T03:31:33.655Z"
+     },
+     {
+        "id":"4",
+        "name":"Van #4",
+        "license":"123wer5245",
+        "make":"Hyundia",
+        "model":"Sonata",
+        "year":"2016",
+        "status":"available",
+        "createdAt":"2021-07-17T03:31:33.655Z",
+        "updatedAt":"2021-07-17T03:31:33.655Z"
+     }
+ ]

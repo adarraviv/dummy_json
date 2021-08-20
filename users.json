@@ -1,0 +1,58 @@
+[
+    {
+        "id": "1",
+        "paymentCustomerId": "cus_JrnpFIq61S0ULy",
+        "firstname": "John",
+        "lastname": "Doe",
+        "phone": "1234567890",
+        "email": "user@evbloom.com",
+        "role": "user",
+        "isEmailVerified": false,
+        "emailVerifiedAt": null,
+        "status": "active",
+        "createdAt": "2021-07-17T03:29:55.260Z",
+        "updatedAt": "2021-07-17T03:29:55.941Z"
+    },
+    {
+        "id": "2",
+        "paymentCustomerId": "cus_JwVbklJRZbYRf3",
+        "firstname": "John",
+        "lastname": "Admin",
+        "phone": "0000000000",
+        "email": "admin@evbloom.com",
+        "role": "admin",
+        "isEmailVerified": false,
+        "emailVerifiedAt": null,
+        "status": "active",
+        "createdAt": "2021-07-29T17:00:01.288Z",
+        "updatedAt": "2021-07-29T17:00:01.838Z"
+    },
+    {
+        "id": "3",
+        "paymentCustomerId": "cus_JwVbklJRZbYRf3",
+        "firstname": "Jill",
+        "lastname": "Admin",
+        "phone": "0000000000",
+        "email": "admin+2@evbloom.com",
+        "role": "admin",
+        "isEmailVerified": false,
+        "emailVerifiedAt": null,
+        "status": "active",
+        "createdAt": "2021-07-29T17:00:01.288Z",
+        "updatedAt": "2021-07-29T17:00:01.838Z"
+    },
+    {
+        "id": "4",
+        "paymentCustomerId": "cus_JwVbklJRZbYRf3",
+        "firstname": "Amber",
+        "lastname": "Admin",
+        "phone": "0000000000",
+        "email": "admin+3@evbloom.com",
+        "role": "admin",
+        "isEmailVerified": false,
+        "emailVerifiedAt": null,
+        "status": "active",
+        "createdAt": "2021-07-29T17:00:01.288Z",
+        "updatedAt": "2021-07-29T17:00:01.838Z"
+    }
+]
